@@ -1,0 +1,142 @@
+body {
+	background-color: #d6dbdf;
+}
+
+h1 {
+	font-family: Arial;
+	font-size: 60px;
+	color: #d6dbdf;
+	line-height: 100px;
+	font-weight: bold;
+	margin: 40px 70px 10px 50px;
+	padding-top: 50px;
+}
+
+.first {
+	margin: 20px 70px 50px 50px;
+	border-bottom: 5px solid #d6dbdf;
+	padding-bottom: 20px;
+
+}
+
+p {
+	font-family: Arial;
+	font-size: 18px;
+	line-height: 20px;
+	margin: 20px 10px 20px 5px;
+	clear:both;
+	color: #444b4b;
+
+
+
+}
+
+h2 {
+	clear: both;
+	color: #444b4b;
+	font-family: Arial;
+	font-weight: bold;
+	font-size: 20px;
+	margin-left: -15px;
+	padding-top: 20px;
+
+}
+
+.box {
+	background-position: center;
+	background-color: white;
+	margin: 50px 225px 100px 225px;
+	border-radius: 5px;
+	clear: both;
+	padding-bottom: 50px;
+}
+
+.section {
+	margin: 50px 50px 50px 50px;
+	border-bottom: 2px solid #d6dbdf;
+	padding-bottom: 50px;
+	clear: both;
+
+}
+
+.block {
+	width: 13px;
+	height: 12px;
+	background-color: #d6dbdf;
+	float: left;
+	text-align: center;
+	margin-left: 5px;
+	margin-right: 5px;
+	border-radius: 5px;
+	padding: 40px;
+	border-bottom: 5px solid #829091;
+	color: #829091;
+	font-family: Arial;
+	font-size: 25px;
+	font-weight: bold;
+}
+
+.special {
+	width: 13px;
+	height: 12px;
+	background-color: #ff5333;
+	float: left;
+	text-align: center;
+	margin-left: 5px;
+	margin-right: 5px;
+	border-radius: 5px;
+	padding: 40px;
+	border-bottom: 5px solid #b93724;
+	color: #b93724;
+	font-family: Arial;
+	font-size: 25px;
+	font-weight: bold;
+
+}
+
+img {
+	font-family: monospace;
+	width: 100%;
+	clear: both;
+}
+
+a {
+	display: block;
+	background-color: #ff5333;
+	border-radius: 5px;
+	font-family: Arial;
+	font-size: 25px;
+	font-weight: bold;
+	text-align: center;
+	width: 250px;
+	height: 35px;
+	padding: 40px;
+	color: #602210;
+	text-decoration: none;
+	margin-left: 20px;
+}
+a:hover {
+	background-color: #b93724;
+}
+}
+a:link {
+	text-decoration: none;
+	color: #602210;
+}
+span {
+	background-color: #d6dbdf;
+	font-family: courier new;
+	font-size: 14px;
+	font-weight: 600;
+	padding: 2px;
+
+}
+
+.italicized{
+	font-style: italic;
+	font-family: Arial;
+	font-size: 18px;
+	line-height: 20px;
+	background-color: white;
+	font-weight: 400;
+}
